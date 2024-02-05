@@ -1,12 +1,15 @@
+# THIS IS MY PYTHON CODE SCRIPT FOR MY AUTOMATION PROJECT
 import os
 import subprocess
 
+# Installing zsh which works as a shell
 def install_zsh():
     os.system("sudo apt-get update && sudo apt-get install zsh")
 
 def install_zsh_mac():
     os.system("brew install zsh")
 
+# the function below installs the zsh-suggestions 
 def install_zsh_autosuggestions():
     os.system("brew install zsh-autosuggestions")
 
@@ -15,9 +18,11 @@ def activate_autosuggestions():
     with open(os.path.expanduser("~/.zshrc"), "a") as f:
         f.write(autosuggestions_command)
 
+# installing vim as my editor 
 def install_vim():
     os.system("brew install vim")
 
+#Function which creates ssh key inorder to work with the repository on a local machine
 def create_ssh_key(email):
     os.system(f"ssh-keygen -t rsa -b 4096 -C \"{email}\"")
 
@@ -31,6 +36,7 @@ def create_pull_request():
     # Assuming the user is on the correct branch and has made changes
     os.system("git push origin your_branch_name")
 
+# function calls out functions defined above
 def main():
     # Problem 1: Install Zsh
     install_zsh()

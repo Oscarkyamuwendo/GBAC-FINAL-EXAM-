@@ -1,14 +1,11 @@
-## TOPIC: ARTIFICIAL INTELLIGENCE
-## WHY: 
-### Artificial Intelligence is one of the trending technology in all most all fields such as health,social, economicial, financial etc, on my side am passionate about technology and this elevetes to my dreams.
+### TOPIC: ARTIFICIAL INTELLIGENCE
+### WHY: 
+Artificial Intelligence is one of the trending technology in all most all fields such as health,social, economicial, financial etc, on my side am passionate about technology and this elevetes to my dreams.
 ### POST 1. AUTOMATION IN THE HUMAN BODY AS A SIGNIFACANT LEAD TO ARTIFICIAL INTELIGENCE
 Automation in the context of the human body typically refers to the natural and involuntary processes that occur without conscious control. Here are some examples of automation in the human body:
 - Autonomic Nervous System (ANS): The ANS regulates involuntary bodily functions, such as heart rate, blood pressure, digestion, respiratory rate, and pupillary response. 
 - Endocrine System: Hormones are chemical messengers produced by glands in the endocrine system. They regulate various physiological functions,
 - Respiratory System: Breathing is an automatic process controlled by the respiratory center in the brainstem. 
-- Cardiovascular System: The heart functions involuntarily to pump blood throughout the body. The cardiac conduction system controls the heart rate and rhythm without conscious effort.
-- Digestive System: Peristalsis, the involuntary muscular contractions of the digestive tract, moves food through the gastrointestinal system. 
-- Reflexes: Reflex actions are rapid, involuntary responses to stimuli. For example, the withdrawal reflex causes a person to pull their hand away from a hot surface without conscious thought.
 #### In summary ( matching bodily parts' finctions with that for machines)
 1. Sight, taste, smell, touch - Vision, pressure, temperature, flow, photoelectric, inductive, capacitive, position/distance measurement sensors
 2. Listening/reading - Vibration sensors, RFID tag readers
@@ -25,5 +22,5 @@ Job Displacement ,Privacy Concerns, Bias and Fairness, Security Risks
 - Music performance and main in the main blog
 ### Conclusion
 In conclusion, Artificial intelligence has proved to be make tasks efficient, so it important to consider and work ethically towards Articificial inttelligence and this includes thouroughly testing of all AI models before taken tothe public
-### from Analytics Vidya
+
 

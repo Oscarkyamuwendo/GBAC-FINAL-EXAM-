@@ -9,8 +9,7 @@
  - **[PROBLEM 2: ADDITION OF TEXT IN BLOG CONSECUTIVELY WITH USE OF THE TERMINAL](https://github.com/23W-GBAC/Oscarkyamuwendo/blob/main/post%202.md)**
    
  - **[PROBLEM 3: UPDATING OF CONTENT IN THE LOCAL REPOSITORY TO THE REPOSITORY ON GITHUB](https://github.com/23W-GBAC/Oscarkyamuwendo/blob/main/post%203.md)**
-
-
+ - **POTENTIAL ADVANTAGES AND DISADVANTAGES, COST- BENEFIT AND ANALYSIS**
 # 1ST POST
 ## **PROBLEM 1: OVER REPEATION OF WRITING FILE PATHS**
    I had a problem of writing file paths which some consisted of long filenames like repositories and this could make me take long time to access a file in a sub folder from other many sub folders 
@@ -87,7 +86,7 @@ At last l closed the terminal and opened it again then next was magic happening 
  ## **PROBLEM: ADDITION OF TEXT IN BLOG CONSECUTIVELY WITH USE OF THE TERMINAL**
 I had to add text in my blog several times but without updating it daily my main blog at the github account
 
-## SOLUTION.
+### SOLUTION.
   	I used VIM as a tool to help me edit text in my blog and save it locally on my machine several times using 
         the terminal and then push it once on github 
 ### STEP 1
@@ -185,10 +184,10 @@ Used for inserting or editing text.
 
  # **POST 3**
 
-## **PROBLEM: UPDATING OF CONTENT IN THE LOCAL REPOSITORY TO THE REPOSITORY ON GITHUB**
+### **PROBLEM: UPDATING OF CONTENT IN THE LOCAL REPOSITORY TO THE REPOSITORY ON GITHUB**
 I encountered a challenge with laptop when trying to add/update text on github from my local repostory  ussing the terminal.
 
-## SOLUTION
+### SOLUTION
   	
 In summary, l discovered that l had to first create a public key locally on my machine and then add it to among the keys on github so that l can access to add, edit/update and push my content to github 
 
@@ -288,37 +287,41 @@ Finally, push your changes to the GitHub repository. If you cloned the repositor
 
  # **POST 4**
 
-## **PROBLEM: ENGAGING OTHERS DEVELOPERS TO MAKE SUGGESTION AND ADVICE OVER MY CONTENT THROUGH PULL REQUESTS AND FORKS**
+### **PROBLEM: ENGAGING OTHERS DEVELOPERS TO MAKE SUGGESTION AND ADVICE OVER MY CONTENT THROUGH PULL REQUESTS AND FORKS**
     This is my last post, it is not by a mistake because indeed it has not been that simple for me to establish pull requests so that other developers can engage ange comment about my content,\
     l indeed though its just a simple thing but the best part of the story is that i was finnaly able to fix it. 
-## SOLUTION
+### SOLUTION
   	
     In my research, l found this information helpful as it helped me come up with all the process of make pull requests to contribute to my fellow developers' content
     Creating a pull request on GitHub is a collaborative way to propose changes to a codebase. It allows other developers to review your changes and provide feedback before merging them into the main branch of the repository. Here's a step-by-step guide on how to create a pull request on GitHub:
 
-## STEP 1: FORK THE REPOSITORY:
+### STEP 1: FORK THE REPOSITORY:
 
     If you're contributing to an existing project, you'll need to fork the repository first. Forking creates a copy of the repository under your own account, allowing you to work on your changes without affecting the original repository.
 
     Make your changes: Clone your forked repository to your local machine and make the changes you want to contribute. Once you're satisfied with your changes, commit them and push them to your forked repository.
 
-## STEP 2: CREATING THE PULL REQUEST:
+### STEP 2: CREATING THE PULL REQUEST:
 
     Navigate to the repository: Open GitHub and go to the main page of the repository you want to contribute to.
 
-## STEP 3: SELECT THE BRANCH:
+### STEP 3: SELECT THE BRANCH:
     On the repository page, in the "Branches" section, choose the branch containing your commits. This is typically the branch you worked on (e.g., "feature-branch").
 
     Initiate the pull request: Above the file list, in the yellow banner, click the "Compare & pull request" button.
 
-## STEP 4:SELECT BASE AND COMPARE BRANCHES:
+### STEP 4:SELECT BASE AND COMPARE BRANCHES:
     In the pull request creation dialog, choose the "base branch" as the main branch of the original repository where you want to merge your changes (e.g., "master"). Then, select the "compare branch" as the branch containing your commits.
 
     Provide a title and description: Enter a clear and concise title for your pull request, summarizing the purpose of your changes. In the description, provide a more detailed explanation of your changes, why they were made, and any relevant context.
 
 
-## STEP 5: CREATING THE PULL REQUEST:
+### STEP 5: CREATING THE PULL REQUEST:
    Once you're satisfied with the title, description, and diff review, click the "Create pull request" button
+
+### I will summarize the POTENTIAL ADVANTAGES AND DISADVANTAGES, COST- BENEFIT AND ANALYSIS in the paragraph below
+First, the advantages is already elaborated in the solution of each problem mentioned and the disadvantages could rise from applying a wrong command to a wrong operating system forexample applying a linux command to a mac machine. 
+For cost benefit and analysis is openly shown in the efficiency of solutions where a business personel isable to create his/her own content on his own without requiring a third party hence being cost effective.
 
 
 
